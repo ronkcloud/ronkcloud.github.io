@@ -1,0 +1,5 @@
+,dataset,pipeline,model_arc,training_params,model_id,train_RMSE,val_RMSE,test_RMSE,Nov d+1 % < 20 cm,Nov d+1 avg error,Nov d+2 % < 20 cm,Nov d+2 avg error,Nov d+3 % < 20 cm,Nov d+3 avg error,Nov-Jan d+1 % < 20 cm,Nov-Jan d+1 avg error,Nov-Jan d+2 % < 20 cm,Nov-Jan d+2 avg error,Nov-Jan d+3 % < 20 cm,Nov-Jan d+3 avg error,Oct-Jan avg_error,Oct-Jan daily plots
+0,PA0,v3,RNN_1_gen,default,ba58a470,1.2157,1.1856,1.021,0.4111,0.395,0.1306,0.8807,0.0639,1.1214,,,,,,,,
+1,PA0,v3,RNN_1_gen,xyvarmeasurement_rate_of_change,58369bf8,1.1074,1.0504,0.916,0.5097,0.298,0.1222,0.8639,0.0806,1.1336,,,,,,,,
+2,rain_sampling_1,v3,RNN_1_gen,"fr1,xyvarmeasurement_rate_of_change",cf8fddfd,0.9763,1.1739,1.0595,0.3708,0.3888,0.1917,0.9598,0.1181,1.2864,,,,,,,,
+3,rain_sampling_1,v3,RNN_1_gen,fr1,2acc6e35,0.9036,1.2808,1.2549,0.3306,0.4897,0.0986,1.1036,0.0736,1.5253,,,,,,,,
